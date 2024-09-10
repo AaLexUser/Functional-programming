@@ -9,7 +9,7 @@
 - Testing: [clojure.test](https://clojure.github.io/clojure/clojure.test-api.html)
 - Dependency Management: [Clojure CLI](https://clojure.org/guides/deps_and_cli)
 - Code Style: [clojure-style-guide](https://github.com/Nondv/clojure-style-guide/blob/master/ru/README.md)
-- Book: [Getting Clojure: Build Your Functional Skills One Idea at a Time](https://www.oreilly.com/library/view/getting-clojure/9781492056151/)
+- Book: [Getting Clojure: Build Your Functional Skills One Idea at a Time](https://pragprog.com/titles/roclojure/getting-clojure/)
 
 ---
 
@@ -86,7 +86,7 @@ Clojure CLI, с другой стороны, является официальн
 
 ### Книга
 
-Для изучения Clojure я остановил свой выбор на книге "Getting Clojure: Build Your Functional Skills One Idea at a Time" автора Russ Olsen. Эта книга отличается доступностью изложения, что делает ее идеальной для новичков в языке. Структура книги включает три раздела, каждый из которых постепенно повышает уровень сложности материала. Особенно привлекательным аспектом этой работы является то, что она охватывает такие важные темы, как clojure.spec, тестирование и макросы, которые часто упускаются в других учебных пособиях по Clojure.
+Для изучения Clojure я остановил свой выбор на книге "[Getting Clojure: Build Your Functional Skills One Idea at a Time](https://pragprog.com/titles/roclojure/getting-clojure/)" автора Russ Olsen. Эта книга отличается доступностью изложения, что делает ее идеальной для новичков в языке. Структура книги включает три раздела, каждый из которых постепенно повышает уровень сложности материала. Особенно привлекательным аспектом этой работы является то, что она охватывает такие важные темы, как clojure.spec, тестирование и макросы, которые часто упускаются в других учебных пособиях по Clojure.
 
 ---
 
